@@ -160,10 +160,6 @@ Rscript Analysis/rare_variant_composite_score.R <sample_id> <variant_dir>
 
 Figures are written to `PaperFigures/output/`.
 
-## Data availability
-
-SPARK genotype and phenotype data are available to approved researchers through [SFARI Base](https://base.sfari.org). UK Biobank data are available through the [UK Biobank Access Management System](https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access). Individual-level data are not included in this repository.
-
 ## Citation
 The original TADA framework:
 > He X, et al. Integrated model of de novo and inherited genetic variants yields greater power to identify risk genes. *PLoS Genet* 9, e1003671 (2013).
